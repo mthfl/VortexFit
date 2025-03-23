@@ -40,6 +40,7 @@ Siga os passos abaixo para baixar e rodar o projeto em sua máquina:
 Acesse o diretório do projeto:
 
 cd VortexFit
+
 Instale as dependências:
 
     Usando npm:
@@ -53,15 +54,11 @@ Inicie o servidor de desenvolvimento:
 
     Usando npm:
     npm run dev
- 
-
 
 Ou usando yarn:
 
         yarn dev
-    Abra o navegador e acesse o endereço exibido no terminal (geralmente http://localhost:5173, mas a porta pode variar).
-
-    Nota: O projeto utiliza o LocalStorage, então os dados são salvos localmente no navegador. Limpar o cache do navegador apagará todas as informações salvas.
+ 
 
 Contribuições
 
