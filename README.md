@@ -34,31 +34,29 @@ Como Executar o Projeto
 Siga os passos abaixo para baixar e rodar o projeto em sua máquina:
 
     Clone o repositório:
-    bash
+    git clone https://github.com/mthfl/VortexFit.git
 
-git clone https://github.com/mthfl/VortexFit.git
+
 Acesse o diretório do projeto:
-bash
+
 cd VortexFit
 Instale as dependências:
 
     Usando npm:
-    bash
-
-npm install
+    npm install
+  
 Ou usando yarn:
-bash
 
     yarn install
 
 Inicie o servidor de desenvolvimento:
 
     Usando npm:
-    bash
+    npm run dev
+ 
 
-npm run dev
+
 Ou usando yarn:
-bash
 
         yarn dev
     Abra o navegador e acesse o endereço exibido no terminal (geralmente http://localhost:5173, mas a porta pode variar).
